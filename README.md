@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pari00720/PariMishra/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/pari00720/PariMishra/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pari00720/PariMishra/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
