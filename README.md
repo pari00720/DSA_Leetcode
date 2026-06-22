@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/pari00720/PariMishra/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pari00720/PariMishra/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pari00720/PariMishra/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -103,8 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pari00720/PariMishra/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pari00720/PariMishra/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/pari00720/PariMishra/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
