@@ -1,6 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        w=2
+        w=2 #write pointer for next valid position
         for r in range(2,len(nums)):
             if nums[r]!=nums[w-2]:
                 nums[w]=nums[r]
