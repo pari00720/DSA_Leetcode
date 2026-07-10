@@ -1,22 +1,22 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        n = len(citations)
-        # Data Structure: Fixed-size List (Bucket Array)
-        buckets = [0] * (n + 1)
+        # 1. Your sorting step (Keep it ascending)
+        c = sorted(citations)
+        n = len(c)
         
-        # Populate the frequency buckets
-        for c in citations:
-            if c >= n:
-                buckets[n] += 1
+        # 2. Your pointers
+        l = 0
+        r = n - 1
+        
+        # 3. Add the missing binary search loop
+        while l <= r:
+            mid = (l + r) // 2
+            
+            # If citations at mid can support the remaining (n - mid) papers
+            if c[mid] >= n - mid:
+                r = mid - 1  # Try to find a larger H-index by moving left
             else:
-                buckets[c] += 1
+                l = mid + 1  # Need higher citation counts, move right
                 
-        # Accumulate papers from highest possible H-index to lowest
-        total_papers = 0
-        for h in range(n, -1, -1):
-            total_papers += buckets[h]
-            # If we found at least 'h' papers with >= 'h' citations
-            if total_papers >= h:
-                return h
-                
-        return 0
+        # The total number of valid papers will be left at n - l
+        return n - l
