@@ -1,9 +1,16 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
+        # Stores seen numbers as keys and their indices as values
+        seen_map = {}
         
-        n=len(nums) 
-        for i in range(0,n-1):
-            for j in range(i+1,n):
-                if nums[i]+nums[j]==target:
-                    return[i,j]
-                
+        for i, num in enumerate(nums):
+            complement = target - num
+            
+            # If the complement was already seen, return its index and current index
+            if complement in seen_map:
+                return [seen_map[complement], i]
+            
+            # Otherwise, cache the current number and its index
+            seen_map[num] = i
+            
+        return []
