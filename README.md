@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pari00720/PariMishra/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/pari00720/PariMishra/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/pari00720/PariMishra/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/pari00720/PariMishra/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pari00720/PariMishra/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/pari00720/PariMishra/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/pari00720/PariMishra/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pari00720/PariMishra/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/pari00720/PariMishra/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/pari00720/PariMishra/tree/master/0075-sort-colors) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/pari00720/PariMishra/tree/master/1266-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pari00720/PariMishra/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
