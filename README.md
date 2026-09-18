@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pari00720/PariMishra/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pari00720/PariMishra/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pari00720/PariMishra/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/pari00720/PariMishra/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pari00720/PariMishra/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pari00720/PariMishra/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pari00720/PariMishra/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Stack
 |  |
 | ------- |
