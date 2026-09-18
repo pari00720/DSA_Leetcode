@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pari00720/PariMishra/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pari00720/PariMishra/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pari00720/PariMishra/tree/master/0509-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pari00720/PariMishra/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pari00720/PariMishra/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pari00720/PariMishra/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pari00720/PariMishra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pari00720/PariMishra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/pari00720/PariMishra/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pari00720/PariMishra/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/pari00720/PariMishra/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
