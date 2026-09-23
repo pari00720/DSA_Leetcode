@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pari00720/PariMishra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pari00720/PariMishra/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pari00720/PariMishra/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pari00720/PariMishra/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pari00720/PariMishra/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,4 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pari00720/PariMishra/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
