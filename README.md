@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pari00720/PariMishra/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pari00720/PariMishra/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/pari00720/PariMishra/tree/master/0845-longest-mountain-in-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pari00720/PariMishra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pari00720/PariMishra/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/pari00720/PariMishra/tree/master/1480-running-sum-of-1d-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pari00720/PariMishra/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pari00720/PariMishra/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/pari00720/PariMishra/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/pari00720/PariMishra/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/pari00720/PariMishra/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pari00720/PariMishra/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/pari00720/PariMishra/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/pari00720/PariMishra/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/pari00720/PariMishra/tree/master/0845-longest-mountain-in-array) |
 ## Memoization
 |  |
 | ------- |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/pari00720/PariMishra/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
