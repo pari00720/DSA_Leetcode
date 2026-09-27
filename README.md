@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pari00720/PariMishra/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pari00720/PariMishra/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/pari00720/PariMishra/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/pari00720/PariMishra/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pari00720/PariMishra/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pari00720/PariMishra/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pari00720/PariMishra/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pari00720/PariMishra/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pari00720/PariMishra/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pari00720/PariMishra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/pari00720/PariMishra/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pari00720/PariMishra/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pari00720/PariMishra/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pari00720/PariMishra/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pari00720/PariMishra/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/pari00720/PariMishra/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
@@ -268,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pari00720/PariMishra/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pari00720/PariMishra/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
